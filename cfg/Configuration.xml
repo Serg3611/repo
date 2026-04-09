@@ -202,6 +202,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Единицыизмерения</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
