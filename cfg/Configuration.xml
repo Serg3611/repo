@@ -203,6 +203,7 @@
 			<Language>Русский</Language>
 			<Catalog>Единицыизмерения</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Document>Приходтоваров</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
