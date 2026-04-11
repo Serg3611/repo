@@ -9,12 +9,12 @@
 		<Metadata name="Catalog.Единицыизмерения.Form.ФормаЭлемента" id="027ae0a1-8fe4-4b51-945c-1afa315b6254" configVersion="29961c8e8acc2047905fffac4692cb4800000000"/>
 		<Metadata name="Catalog.Единицыизмерения.Form.ФормаЭлемента.Form" id="027ae0a1-8fe4-4b51-945c-1afa315b6254.0" configVersion="c3cfc7b72c61a34399a2945560a6940000000000"/>
 		<Metadata name="Configuration.Конфигурация" id="b1fd0003-fbb5-40b2-9393-4817e6c383eb" configVersion="387ecc50b4da9043b1b4e85e725e9f5000000000"/>
-		<Metadata name="Document.Приходтоваров" id="c3ad80c1-9e0c-4085-9aa3-ec79e6b5e768" configVersion="0686abc75cb72544a987ff8c4a9ec9e400000000">
+		<Metadata name="Document.Приходтоваров" id="c3ad80c1-9e0c-4085-9aa3-ec79e6b5e768" configVersion="fdf6a454bffcb745be82470f52ffeedf00000000">
 			<Metadata name="Document.Приходтоваров.Attribute.Расходтоваров" id="e8ce0ef8-aba4-4e61-b927-fc8e03277503"/>
 		</Metadata>
 		<Metadata name="Document.Приходтоваров.Form.ФормаДокумента" id="65dcc5c8-9b7c-4d9c-94c4-b87dde83d3e7" configVersion="eac96f934701cc4fa6e0a6d085b34b2f00000000"/>
 		<Metadata name="Document.Приходтоваров.Form.ФормаДокумента.Form" id="65dcc5c8-9b7c-4d9c-94c4-b87dde83d3e7.0" configVersion="684b0e877d3eec49aad65f4bff782d1300000000"/>
-		<Metadata name="Document.Приходтоваров.ObjectModule" id="c3ad80c1-9e0c-4085-9aa3-ec79e6b5e768.0" configVersion="c40134533b21564a83a1861d5173b6ba00000000"/>
+		<Metadata name="Document.Приходтоваров.ObjectModule" id="c3ad80c1-9e0c-4085-9aa3-ec79e6b5e768.0" configVersion="fc24bcc40fe9b342916e8023e184cbd400000000"/>
 		<Metadata name="Document.Расходтоваров" id="68a226e4-1816-42af-8b29-df2926dbbb56" configVersion="b4b155174a93db4eb2b2e1dcb49ac94000000000"/>
 		<Metadata name="Document.Расходтоваров.Form.ФормаДокумента" id="2fdaf32f-85f8-4339-a4d6-ed697dda8982" configVersion="a71d8b35fb272643bda7f095b6f46ae100000000"/>
 		<Metadata name="Document.Расходтоваров.Form.ФормаДокумента.Form" id="2fdaf32f-85f8-4339-a4d6-ed697dda8982.0" configVersion="1ddecad3bfbb6d48a756e05fab3aff1600000000"/>
